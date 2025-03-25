@@ -22,3 +22,7 @@ This work incorporates many open-source codes. We extend our gratitude to the au
 - [Gaussian Splatting SLAM](https://github.com/muskie82/MonoGS)
 - [LEAP-VO](https://github.com/chiaki530/leapvo)
 - [SplaTAM](https://github.com/spla-tam/SplaTAM)
+
+
+# License
+D4DGS-SLAM is released under a **LICENSE.md**. 
