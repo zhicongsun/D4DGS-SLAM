@@ -6,6 +6,7 @@
 
 ## TODO list
 - [ ] release the arxiv link
+- [ ] release the full README file
 - [ ] release the code of the 4d-gaussian-rasterization for 4DGS-based SLAM
 - [ ] release the full code of our D4DGS-SLAM
 - [ ] release the code of the evaluation
