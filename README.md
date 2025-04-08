@@ -1,11 +1,16 @@
-# Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM (D4DGS-SLAM)
+<p align="center">
+  <h1 align="center">Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM (D4DGS-SLAM)</h1>
+</p>
+
+
+### [Paper](https://arxiv.org/abs/2504.04844) | [Project Page](https://arxiv.org/abs/2504.04844)
 
 # Note
 - The code will be publicly released upon acceptance to IROS2025. Please stay tuned for this exciting work. Thank you for your attention.
 
 
 ## TODO list
-- [ ] release the arxiv link
+- [x] release the arxiv link
 - [ ] release the full README file
 - [ ] release the code of the 4d-gaussian-rasterization for 4DGS-based SLAM
 - [ ] release the full code of our D4DGS-SLAM
