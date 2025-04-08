@@ -3,7 +3,7 @@
 </p>
 
 
-### [Paper](https://arxiv.org/abs/2504.04844) | [Project Page]([https://arxiv.org/abs/2504.04844](https://zhicongsun.github.io/d4dgs))
+### [Paper](https://arxiv.org/abs/2504.04844) | [Project Page]([https://arxiv.org/abs/2504.04844](https://zhicongsun.github.io/d4dgs])
 
 # Note
 - The code will be publicly released upon acceptance to IROS2025. Please stay tuned for this exciting work. Thank you for your attention.
