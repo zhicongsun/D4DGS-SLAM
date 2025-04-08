@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM (D4DGS-SLAM)</h1>
+  <h1 align="center">Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM</h1>
 </p>
 
 
