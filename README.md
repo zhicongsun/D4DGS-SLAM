@@ -11,6 +11,7 @@
 
 ## TODO list
 - [x] release the arxiv link
+- [ ] release the website
 - [ ] release the full README file
 - [ ] release the code of the 4d-gaussian-rasterization for 4DGS-based SLAM
 - [ ] release the full code of our D4DGS-SLAM
@@ -43,6 +44,6 @@ If you find our paper and code useful, please cite us:
         author={Zhicong Sun, Jacqueline Lo, Jinxing Hu},
         journal={arXiv preprint arXiv:2504.04844},
         year={2025}
-      }
+}
 ```
 
