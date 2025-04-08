@@ -32,3 +32,17 @@ This work incorporates many open-source codes. We extend our gratitude to the au
 
 # License
 D4DGS-SLAM is released under a **LICENSE.md**. 
+
+## Citation
+
+If you find our paper and code useful, please cite us:
+
+```bib
+@inproceedings{sun2025d4dgsslam,
+        title={Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM},
+        author={Zhicong Sun, Jacqueline Lo, Jinxing Hu},
+        journal={arXiv preprint arXiv:2504.04844},
+        year={2025}
+      }
+```
+
