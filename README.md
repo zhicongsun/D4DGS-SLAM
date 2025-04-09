@@ -3,7 +3,31 @@
 </p>
 
 
-### [Paper](https://arxiv.org/abs/2504.04844) | [Project Page](https://zhicongsun.github.io/d4dgs)
+<!-- ### [Paper](https://arxiv.org/abs/2504.04844) | [Project Page](https://zhicongsun.github.io/d4dgs)--> 
+  <p align="center">
+    <a href=""><strong>Zhicong Sun</strong></a>
+    ,
+    <a href=""><strong>Jinxing Hu*</strong></a>
+    ,
+    <a href=""><strong>Jacqueline Lo*</strong></a>
+  </p>
+  <p align="center">(* Corresponding Authors)</p>
+  
+
+[comment]: <> (  <h2 align="center">PAPER</h2>)
+  <h3 align="center"><a href="https://arxiv.org/abs/2504.04844">Paper</a> | <a href="https://zhicongsun.github.io/d4dgs">Project Page</a></h3>
+  <div align="center"></div>
+
+<br>
+<p align="center">
+  <a href="">
+    <img src="./images/overview.png" alt="gui" width="100%">
+  </a>
+</p>
+<p align="center">Overview of our D4DGS-SLAM.
+</p>
+<br>
+
 
 # Note
 - The code will be publicly released upon acceptance to IROS2025. Please stay tuned for this exciting work. Thank you for your attention.
