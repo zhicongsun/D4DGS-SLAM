@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center">Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM</h1>
 </p>
+<h3 align="center">IROS 2025</h3>
 
 
 <!-- ### [Paper](https://arxiv.org/abs/2504.04844) | [Project Page](https://zhicongsun.github.io/d4dgs)--> 
@@ -30,7 +31,7 @@
 
 
 # Note
-- The code will be publicly released upon acceptance to IROS2025. Please stay tuned for this exciting work. Thank you for your attention.
+- The code will be publicly released soon. Please stay tuned for this exciting work. Thank you for your attention.
 
 
 ## TODO list
