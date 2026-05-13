@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Scratch / log files
+*.log
+log.txt
+txt.txt
+Untitled Document*
